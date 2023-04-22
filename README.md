@@ -1,1 +1,1 @@
-# Monkey-Pox-Clasification
+## Monkey Pox Clasification
